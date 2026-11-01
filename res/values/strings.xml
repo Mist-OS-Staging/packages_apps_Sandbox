@@ -16,6 +16,8 @@
 -->
 <resources>
     <string name="app_name">Sandbox</string>
+    <!-- Label of an app that lives in the clone (dual apps) profile, e.g. "WhatsApp (Clone)" -->
+    <string name="app_label_clone">%1$s (Clone)</string>
 
     <!-- Main screen -->
     <string name="sandbox_title">Sandbox</string>
